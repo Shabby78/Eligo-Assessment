@@ -8,5 +8,11 @@ Classified the dataset into 4 classes:
 3. **Business**
 4. **Science/Tech**
 
+Files contains detailed view of 3 methods:
+1. **Data Preprocessing**
+2. **EDA**
+3. **Modelling or model building**
+
+
 
 
