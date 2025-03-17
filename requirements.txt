@@ -1,0 +1,12 @@
+## **requirements.txt (Python Dependencies)**
+```txt
+datasets
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+wordcloud
+
+##make sure all libraries are installed
