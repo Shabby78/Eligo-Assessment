@@ -14,9 +14,9 @@ This project classifies news article into 4 categories:
 
 ## **3. Exploratory Data Analysis (EDA):**
 - **Visualizations:**
-  - **Category distribution** (imbalanced dataset).
-  - **Text length analysis** (Business & World categories have longer articles).
-  - **Word cloud** (common words in dataset).
+  - Category Distribution with Percentage.
+  - Most Distinctive Words per Category
+  - Text Length Distribution per Category
 
 ## **4. Model Training & Evaluation**
 - **Count Vectorizer + Logistic Regression**:
